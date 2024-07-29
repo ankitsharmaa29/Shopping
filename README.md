@@ -1,10 +1,8 @@
-#frontend
-npm install
-npm start
+ For Project Run #frontend npm install npm start
 
 #backend
-npm install
-nodemon server.js
+npm install nodemon server.js
+
 "Shopping Website" is an e-commerce platform designed to provide a seamless shopping experience for users. It includes features such as user authentication, product browsing, shopping cart management, order processing, and payment integration.
 
 Features
