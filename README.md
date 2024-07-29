@@ -56,14 +56,14 @@
 ### Frontend
 - Navigate to the frontend directory:
   - cd frontend
-##Install dependencies
+## Install dependencies
 -npm install
-##Start the development server
+## Start the development server
 -npm start
 ### Backend
 -Navigate to the backend directory
    cd backend
-###Install dependencies
+### Install dependencies
 -npm install
-##Start the server with nodemon
+## Start the server with nodemon
 -nodemon server.js
