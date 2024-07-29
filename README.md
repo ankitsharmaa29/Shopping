@@ -12,7 +12,7 @@
 - Search and filter products
 - Product categories and details
 - Product reviews and ratings
-
+![Shopping Website](https://drive.google.com/uc?export=view&id=1_zYamlN_drzlXO2eysMv7s0Gk5FwsKfM)
 ### Shopping Cart
 - Add, remove, and update items
 - Cart summary and total price calculation
