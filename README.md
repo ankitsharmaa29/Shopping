@@ -53,5 +53,15 @@
 
 ### Frontend
 1. Navigate to the frontend directory:
-   ```bash
    cd frontend
+##Install dependencies
+2.npm install
+##Start the development server
+3.npm start
+### Backend
+1.Navigate to the backend directory
+   cd backend
+###Install dependencies
+2.npm install
+##Start the server with nodemon
+3.nodemon server.js
