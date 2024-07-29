@@ -12,15 +12,17 @@
 - Search and filter products
 - Product categories and details
 - Product reviews and ratings
-![Shopping Website](https://drive.google.com/uc?export=view&id=1_zYamlN_drzlXO2eysMv7s0Gk5FwsKfM)
+
 ### Shopping Cart
 - Add, remove, and update items
 - Cart summary and total price calculation
+- ![Shopping Website](https://drive.google.com/uc?export=view&id=1_zYamlN_drzlXO2eysMv7s0Gk5FwsKfM)
 
 ### Order Processing
 - Address and shipping information
 - Order summary and confirmation
 - Payment integration (e.g., Stripe, PayPal)
+- ![Shopping Website](https://drive.google.com/uc?export=view&id=1x-Ef3SA8o8r9BBwrjMDQ5nHYMK1ln6Sd)
 
 ### User Account Management
 - Order history and tracking
@@ -52,16 +54,16 @@
 ## Setup Instructions
 
 ### Frontend
-1. Navigate to the frontend directory:
-   cd frontend
+- Navigate to the frontend directory:
+  - cd frontend
 ##Install dependencies
-2.npm install
+-npm install
 ##Start the development server
-3.npm start
+-npm start
 ### Backend
-1.Navigate to the backend directory
+-Navigate to the backend directory
    cd backend
 ###Install dependencies
-2.npm install
+-npm install
 ##Start the server with nodemon
-3.nodemon server.js
+-nodemon server.js
